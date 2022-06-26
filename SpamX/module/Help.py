@@ -70,7 +70,7 @@ syntax:
 {hl}hang <counts>
 
 
-**© @RiZoeLX**
+**© @RoninXJin_updates**
 """
 
 
@@ -89,7 +89,7 @@ command:
 command:
   {hl}dmraid <count> <username or user id>
 
-**© @RiZoeLX**
+**© @RoninXJin_updates**
 """
 
 
@@ -101,7 +101,7 @@ command:
   {hl}join <private/public Chat invite link or username>
 
 
-**© @RiZoeLX
+**© @RoninXJin_updates
 """
 
 leave_help = f"""
@@ -112,7 +112,7 @@ syntax:
 i) {hl}leave <group Username or chat user id>
 ii) {hl}leave
 
-**© @RiZoeLX**
+**© @RoninXJin_updates**
 """
 
 userbot_help = f"""
@@ -124,7 +124,7 @@ userbot_help = f"""
 
 - {hl}restart : To Restart Your Spam Bots
 
-**© @RiZoeLX**
+**© @RoninXJin_updates**
 """
 
 
@@ -139,11 +139,11 @@ commands:
 2) {hl}setbio <coustom Bio>
 3) {hl}setpic <reply to media>
 
-**© @RiZoeLX **
+**© @RoninXJin_updates **
 """
 
 help_menu = f"""
-**RiZoeL X Spam Help**
+**Samurai X Spam Help**
 
 **There are following categories**
 
@@ -157,5 +157,5 @@ help_menu = f"""
 **Type** {hl}help <category> **to get all syntax in that category and its usage**
 **Example**: `{hl}help spam`
 
-**© @RiZoeLX**
+**© @RoninXJin_updates**
 """
