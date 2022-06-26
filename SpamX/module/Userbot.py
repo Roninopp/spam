@@ -27,7 +27,7 @@ rizoel += f"➠ **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ** : `{pyro_vr}`\n"
 rizoel += f"➠ **SᴘᴀᴍX ᴠᴇʀsɪᴏɴ**  : `{__version__}`\n"
 rizoel += f"➠ **ᴄʜᴀɴɴᴇʟ** : [Join.](https://t.me/RONIN_Fighters_Fd)\n"
 rizoel += f"━───────╮•╭───────━\n\n"
-rizoel += f"➠ **My Owner:** [•Repo•](https://t.me/DushmanXRONIN)"
+rizoel += f"➠ **My Owner:** [•OWNER•](https://t.me/DushmanXRONIN)"
 
 
 async def get_time(seconds: int) -> str:
