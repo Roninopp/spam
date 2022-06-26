@@ -203,7 +203,7 @@ async def raid(xspam: Client, e: Message):
 @Client.on_message(filters.user(SUDO_USERS) & filters.command(["fspam", "fastspam"], prefixes=HNDLR))
 @Client.on_message(filters.me & filters.command(["fspam", "fastspam"], prefixes=HNDLR))
 async def spam(xspam: Client, e: Message):
-    warn = await e.reply_text("**Note:** Don't Blame to @RiZoeLX If IDs Get ban -!")
+    warn = await e.reply_text("**Note:** Don't Blame to @DushmanXRonin If IDs Get ban -!")
     await asyncio.sleep(3)
     await warn.delete()
     Rizoel = "".join(e.text.split(maxsplit=1)[1:]).split(" ", 1)
